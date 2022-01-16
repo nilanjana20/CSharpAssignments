@@ -9,8 +9,10 @@ namespace Assignments
 				// EmployeeWage.AttendanceCheck();
 				// Console.WriteLine("Welcome to Employeewage computation program on master branch");
 			    // Console.WriteLine(Assignments.EmployeeWage.AttendanceCheck()? "Employee is present" : "Employee is absent");
-				 Assignments.EmployeeWageCaculation res = new Assignments.EmployeeWageCaculation();
-                 Console.WriteLine(res.dailyEmployeeWage());
+				//  Assignments.EmployeeWageCaculation res = new Assignments.EmployeeWageCaculation();
+                //  Console.WriteLine(res.dailyEmployeeWage());
+
+				 Assignments.EmployeeWagePartTime.Solution();
 			}
 	}
 }
