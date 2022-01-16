@@ -12,7 +12,7 @@ namespace Assignments
 				//  Assignments.EmployeeWageCaculation res = new Assignments.EmployeeWageCaculation();
                 //  Console.WriteLine(res.dailyEmployeeWage());
 
-				 Assignments.EmployeeWagePartTime.Solution();
+				 Assignments.EmployeeWageSwitchCase.Solution();
 			}
 	}
 }
