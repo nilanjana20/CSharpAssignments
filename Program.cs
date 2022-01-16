@@ -6,9 +6,11 @@ namespace Assignments
 	{
 		public static void Main()
 			{
-				EmployeeWage.EmployeeWageProgram();
-				Console.WriteLine("Welcome to Employeewage computation program on master branch");
-			Console.WriteLine(Assignments.EmployeeWage.EmployeeWageProgram()? "Employee is present" : "Employee is absent");
+				// EmployeeWage.AttendanceCheck();
+				// Console.WriteLine("Welcome to Employeewage computation program on master branch");
+			    // Console.WriteLine(Assignments.EmployeeWage.AttendanceCheck()? "Employee is present" : "Employee is absent");
+				 Assignments.EmployeeWageCaculation res = new Assignments.EmployeeWageCaculation();
+                 Console.WriteLine(res.dailyEmployeeWage());
 			}
 	}
 }

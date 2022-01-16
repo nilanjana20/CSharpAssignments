@@ -4,7 +4,7 @@ namespace Assignments
 {
 	public class EmployeeWage
 	{
-		public static bool EmployeeWageProgram()
+		public static bool AttendanceCheck()
 			{
 				{
                   Random attendance = new Random();
