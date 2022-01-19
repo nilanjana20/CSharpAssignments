@@ -1,7 +1,7 @@
 using System;
 
 namespace Assignments;
-internal class LineComparison
+internal class LineComparisonuc1
 {
     public static double LengthOfLine(int x1, int y1, int x2, int y2)
     {
