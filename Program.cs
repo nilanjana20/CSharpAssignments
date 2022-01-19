@@ -17,7 +17,10 @@ namespace Assignments
 				//Line-comparison
                 // Assignments.LineComparisonuc1.Solution();
 				// Assignments.LineComparisonuc2.Solution();
-				Assignments.LineComparisonUC3.Solution();
+				// Assignments.LineComparisonUC3.Solution();
+
+				//Snake-Ladder
+				Assignments.SnakeLadder.Solution();
             }
     }
 }               
