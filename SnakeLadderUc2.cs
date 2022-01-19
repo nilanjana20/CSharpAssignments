@@ -8,8 +8,8 @@ namespace Assignments
 {
     internal class SnakeLadderUc2
     {
-        private int InitialPosition { get; } = 0;
-        private int CurrentPosition { get; set; }
+        private int InitialPosition= 0;
+        private int CurrentPosition;
 
         private int RollDice()
         {
