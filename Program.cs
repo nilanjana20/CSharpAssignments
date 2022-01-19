@@ -15,8 +15,9 @@ namespace Assignments
 				//  Assignments.EmployeeWageSwitchCase.Solution();
 
 				//Line-comparison
-                Assignments.LineComparisonuc1.Solution();
-				Assignments.LineComparisonuc2.Solution();
+                // Assignments.LineComparisonuc1.Solution();
+				// Assignments.LineComparisonuc2.Solution();
+				Assignments.LineComparisonUC3.Solution();
             }
     }
 }               
