@@ -4,8 +4,8 @@ namespace Assignments
 {
     internal class SnakeLadder
     {
-        private int InitialPosition = 0;
-        private int CurrentPosition;
+        public int InitialPosition = 0;
+        public int CurrentPosition;
 
         public static void Solution()
         {

@@ -21,6 +21,7 @@ namespace Assignments
 
 				//Snake-Ladder
 				Assignments.SnakeLadder.Solution();
+				Assignments.SnakeLadderUc2.Solution();
             }
     }
 }               
